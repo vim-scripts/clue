@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2359
+
+Clue is a redesign of the "blue" colour scheme -- hence the name ;) -- with many colours changed and several new syntax categories added.
+The cterm version has a black background.
+Screenshots of Vim in vimdiff mode, with gui and cterm:
+http://www.math.bas.bg/bantchev/vim/gvimdiff-clue.png
+http://www.math.bas.bg/bantchev/vim/vimdiff-clue.png
+
